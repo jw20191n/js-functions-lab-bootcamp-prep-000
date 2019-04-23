@@ -11,5 +11,5 @@ function happyHolidaysTo(string){
 }
 
 function happyHolidayTo(holiday, name){
-  var holidaysTo = `Happ
+  var holidaysTo = `Happy ${holiday}, ${name}!`
 }

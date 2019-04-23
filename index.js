@@ -9,3 +9,7 @@ function happyHolidaysTo(string){
   var greetingsTo = `Happy holidays, ${name}!`
   return greetingsTo
 }
+
+function happyHolidayTo(holiday, name){
+  var holidaysTo = `Happ
+}
